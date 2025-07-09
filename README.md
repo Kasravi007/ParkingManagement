@@ -52,7 +52,7 @@ Gracefully terminates the program.
 ## 🛠️ Tech Stack
 
 - **Language:** C#
-- **Framework:** .NET 6.0 or later
+- **Framework:** .NET 9.0 or later
 - **Type:** Console Application
 
 ## ▶️ How to Run
